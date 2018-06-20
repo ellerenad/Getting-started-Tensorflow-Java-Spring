@@ -1,0 +1,4 @@
+irisml:
+  savedModel:
+    path: ../training/stored_model/1529337262
+    tags: serve
