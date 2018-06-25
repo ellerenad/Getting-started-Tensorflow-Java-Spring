@@ -4,5 +4,5 @@ server:
 
 irisml:
   savedModel:
-    path: ../training/stored_model/1529337262
+    path: ../training/stored_model/1529918323
     tags: serve
