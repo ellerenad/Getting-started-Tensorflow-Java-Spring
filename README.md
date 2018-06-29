@@ -1,1 +1,1 @@
-Repo storing the code for the blog post **Getting started with Tensorflow and Java-Spring**, yet to be published at blog.mimacom.com
+Repo storing the code for the blog post **Getting started with Tensorflow and Java-Spring**, published at [https://blog.mimacom.com/getting-started-tensorflow-spring/](https://blog.mimacom.com/getting-started-tensorflow-spring/)
